@@ -1,2 +1,2 @@
-# Mini-Projetos-de-Java
-Projetos iniciais de Java
+# Mini-Projeto-de-Java
+Questão sobre Sorteio de Mesas
